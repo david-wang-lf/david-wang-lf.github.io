@@ -1,0 +1,8 @@
+html, body, header, #intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://cdn.filesend.jp/private/E6WIBdk-HtT20A4XJEVWmfOX8RjJYhQgXTVGCfVAF8WVcH5_v2ZJGVkkz0MnjN4M/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
