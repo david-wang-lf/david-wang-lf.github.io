@@ -10,3 +10,6 @@
 ## Our Vision 
 1. To start an initiative of peer tutoring, which senior students can teach the junior students, since the best way to learn is to teach, we are encouraging students to learn from each other. 
 2. To start an initiative of instant tuition and homework helps to help the students in need. 
+## Challenges Faced And How I Overcame them
+1. I have zero coding knowledge before, so I was afraid of making mistakes in the code.However Frae was always there to help me through.
+2. Online coding tutorials from Youtude are really helpful 
