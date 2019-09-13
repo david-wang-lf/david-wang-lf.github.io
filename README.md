@@ -5,7 +5,7 @@
 2. We are recruiting university students as well as experienced MOE-licenced teachers, as long as you are eager to teach, you're welcomed to join us!
 3. We also provide online courses for students to save their hustle. 
 ## About Our Projects 
-1. _ _All_ _ of our projects are in fact real, although some of them are still in the stage of planning. 
+1. _All_ of our projects are in fact real, although some of them are still in the stage of planning. 
 2. We have served over 100 students in total, our teaching team has exceeded 40 this year, and still growing.
 ## Our Vision 
 1. To start an initiative of peer tutoring, which senior students can teach the junior students, since the best way to learn is to teach, we are encouraging students to learn from each other. 
